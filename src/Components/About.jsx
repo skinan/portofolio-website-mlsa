@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a PhD candidate in an ARC Discovery Project, actively working with artificial intelligence (AI) technologies and possessing profound experience in novel AI/ML-based research to solve real-life multi-disciplinary challenges. I have substantial experience in AI-driven medical image analysis (ultrasound, neuro-imaging) for cancer research, focusing on early diagnosis. Additionally, I worked in AI-driven geotechnical engineering, specifically for analyzing landslide susceptibility and soil quality. Furthermore, I have active leadership experiences such as working as an evangelist in the Machine Learning for Operations (MLOps), leading and contributing to the Microsoft Student Ambassador community in the Asia-Pacific region. I aim to expand my knowledge further and utilize it to develop more AI-driven solutions for solving complex real-world challenges.I am a PhD candidate in an ARC Discovery Project, actively working with artificial intelligence (AI) technologies and possessing profound experience in novel AI/ML-based research to solve real-life multi-disciplinary challenges. I have substantial experience in AI-driven medical image analysis (ultrasound, neuro-imaging) for cancer research, focusing on early diagnosis. Additionally, I worked in AI-driven geotechnical engineering, specifically for analyzing landslide susceptibility and soil quality. Furthermore, I have active leadership experiences such as working as an evangelist in the Machine Learning for Operations (MLOps), leading and contributing to the Microsoft Student Ambassador community in the Asia-Pacific region. I aim to expand my knowledge further and utilize it to develop more AI-driven solutions for solving complex real-world challenges.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Deep Learning",
+  "Python Programming",
+  "Data Analysis",
+  "Community Leadership",
+  "Public Speaking and Debating",
 ];
 
 /**
@@ -44,8 +44,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = "I am highly self-motivated to constantly solve real life challenges.";
 
 const About = () => {
   return (
